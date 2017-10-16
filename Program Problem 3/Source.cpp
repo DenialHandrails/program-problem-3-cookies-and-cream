@@ -20,7 +20,7 @@ void pause() {
 }
 // main
 void main() {
-	int someThreeDigitNumber;
+	int someThreeDigitNumber;vc
 	cout << "Enter a three digit number : ";
 	cin >> someThreeDigitNumber;
 	int A, B, C;
